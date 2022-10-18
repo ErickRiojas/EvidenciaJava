@@ -1,0 +1,5 @@
+#Archivos de tipo clase
+*.class
+
+#Archivos de tipo swp
+*.swp
